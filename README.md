@@ -16,7 +16,7 @@ projects first, English & German.
 
 - Tools that stay out of the way
 - Docs that work for beginners *and* nerds
-- Privacy by default: no tracking, no surprises
+- Privacy if possible
 
 ### Off the clock
 
