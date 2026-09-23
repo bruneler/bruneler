@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#8aaef0"/>
+  <g stroke="#f4f3ee" stroke-width="14" stroke-linecap="round" opacity="0.75">
+    <line x1="58" y1="206" x2="116" y2="206"/><line x1="40" y1="254" x2="108" y2="254"/><line x1="62" y1="302" x2="116" y2="302"/>
+  </g>
+  <path d="M120 512 C120 432 170 394 256 394 C342 394 392 432 392 512 Z" fill="#16252a"/>
+  <path d="M146 300 C140 190 204 122 292 122 C372 122 416 186 414 262 L412 326 C411 350 394 366 370 366 L192 366 C166 366 148 346 146 320 Z" fill="#d0141e"/>
+  <path d="M184 188 C216 152 262 138 306 140" stroke="#f4f3ee" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M258 206 H396 C408 206 414 214 414 226 V288 C414 300 406 308 394 308 H276 C262 308 252 296 254 282 Z" fill="#16252a"/>
+  <polyline points="290,236 316,257 290,278" stroke="#7fd8ae" stroke-width="13" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="330" y1="282" x2="370" y2="282" stroke="#7fd8ae" stroke-width="13" stroke-linecap="round"/>
+  <line x1="382" y1="220" x2="398" y2="220" stroke="#f4f3ee" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <circle cx="214" cy="264" r="24" fill="#8f0c14"/><circle cx="214" cy="264" r="10" fill="#d0141e"/>
+  <g stroke="#8f0c14" stroke-width="8" stroke-linecap="round"><line x1="330" y1="334" x2="378" y2="334"/><line x1="336" y1="350" x2="370" y2="350"/></g>
+</svg>
