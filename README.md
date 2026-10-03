@@ -1,8 +1,8 @@
 <img src="avatar-bruenu.png" alt="Illustrated avatar: a red motorcycle helmet with a terminal prompt reflected in its visor" width="120" align="right">
 
-# Hi, I'm bruenu
+# Hi, I'm bruneler
 
-I run Arch Linux (btw) and build small tools that take the friction out of
+I build small tools that take the friction out of
 everyday dev work. Away from the terminal, you'll find me gaming or out on
 my Panigale.
 
